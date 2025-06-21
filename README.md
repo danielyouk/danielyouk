@@ -8,29 +8,30 @@ Senior AI Specialist with expertise in building and deploying scalable machine l
 ### ⚙️ Tech Stack
 
 **Languages**
-> *Your core programming languages for data science and analysis.*
+> *Core languages for data science, analysis, and software engineering.*
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **ML Frameworks & Libraries**
-> *The essential libraries for building, training, and evaluating machine learning models.*
+> *Essential libraries for building and training machine learning models.*
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Cloud & Data Platforms**
-> *Your expertise in major cloud environments and scalable data processing platforms.*
+> *Expertise in major cloud environments and scalable data platforms.*
 
 ![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Runpod](https://img.shields.io/badge/Runpod-663399?style=for-the-badge)
 
 **DevOps & MLOps Tools**
-> *Tools for containerization, workflow automation, and managing the machine learning lifecycle.*
+> *Key tools for containerization, automation, and managing the machine learning lifecycle.*
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
