@@ -1,13 +1,9 @@
 # 👋 Hi, I'm Daniel Youk!
-🚀 Data Science & MLOps Engineer | Machine Learning Optimization Specialist
+Senior AI Specialist with expertise in building and deploying scalable machine learning solutions. My primary focus is on MLOps, Generative AI, and cloud-native data systems. I am passionate about turning complex data into actionable business insights.
 
-- 🔭 I’m currently working on **LLM fine-tuning & MLOps automation**
-- 🌱 I’m exploring **JavaScript, Go** for full-stack integration
-- 👯 I’m looking to collaborate on **LLM deployment, cloud-based AI solutions, multiple gpu training with docker setup**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dtmanager1979/) | [GitHub](https://github.com/danielyouk)
-- 💬 Ask me about **MLOps, Cloud ML, Transformer Models**
-
----
+- Current Focus: Leading projects in LLM fine-tuning, AI agent development, and MLOps automation using Azure Machine Learning and Python.
+- Core Competencies: MLOps, Deep Learning (PyTorch, Keras), Cloud Platforms (Azure, AWS, GCP), Data Engineering (Spark, Databricks), and CI/CD for Machine Learning.
+- Contact: [LinkedIn](https://www.linkedin.com/in/dtmanager1979/) | [GitHub](https://github.com/danielyouk)
 
 ## 🛠 **Tech Stack**
 ### **Languages**
