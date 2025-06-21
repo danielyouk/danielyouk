@@ -5,12 +5,12 @@ Senior AI Specialist with expertise in building and deploying scalable machine l
 - Core Competencies: MLOps, Deep Learning (PyTorch, Keras), Cloud Platforms (Azure, AWS, GCP), Data Engineering (Spark, Databricks), and CI/CD for Machine Learning.
 - Contact: [LinkedIn](https://www.linkedin.com/in/dtmanager1979/) | [GitHub](https://github.com/danielyouk)
 
-| | | |
+| **AI & Technical Strategy** | **MLOps & Execution** | **Leadership & Collaboration** |
 | :--- | :--- | :--- |
-| • AI Project Leadership | • Generative AI & LLMs | • MLOps & Model Lifecycle |
-| • Tech Roadmapping & Design | • Cloud-Native ML Architecture | • Cross-Functional Collaboration |
-| • Stakeholder Engagement | • Data-Driven Decisions | • Mentorship & Knowledge Sharing|
-| • Agile Methodologies | • Problem Solving | • Technical Documentation |
+| • AI Project Leadership | • MLOps & Model Lifecycle | • Cross-Functional Collaboration |
+| • Generative AI & LLMs | • Cloud-Native ML Architecture | • Stakeholder Engagement |
+| • Tech Roadmapping & Design | • Mentorship & Knowledge Sharing | • Agile Methodologies & Scrum |
+| • Data-Driven Decisions | • Technical Documentation | • Complex Problem Solving |
 
 ### ⚙️ Tech Stack
 
