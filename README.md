@@ -5,17 +5,38 @@ Senior AI Specialist with expertise in building and deploying scalable machine l
 - Core Competencies: MLOps, Deep Learning (PyTorch, Keras), Cloud Platforms (Azure, AWS, GCP), Data Engineering (Spark, Databricks), and CI/CD for Machine Learning.
 - Contact: [LinkedIn](https://www.linkedin.com/in/dtmanager1979/) | [GitHub](https://github.com/danielyouk)
 
-## 🛠 **Tech Stack**
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+### ⚙️ Tech Stack
 
-### **Frameworks & Tools**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+**Languages**
+> *Your core programming languages for data science and analysis.*
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**ML Frameworks & Libraries**
+> *The essential libraries for building, training, and evaluating machine learning models.*
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Cloud & Data Platforms**
+> *Your expertise in major cloud environments and scalable data processing platforms.*
+
+![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+**DevOps & MLOps Tools**
+> *Tools for containerization, workflow automation, and managing the machine learning lifecycle.*
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+*Familiar with: Kubernetes, Tidyverse (R)*
 
 
 <!---
